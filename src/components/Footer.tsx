@@ -16,7 +16,7 @@ export default function Footer() {
           whileHover={{ scale: 1.05 }}
         >
           <span className="opacity-50">&lt;</span>
-          <span>JG</span>
+          <span>HG</span>
           <span className="opacity-50">/&gt;</span>
         </motion.div>
 

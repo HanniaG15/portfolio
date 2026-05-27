@@ -53,7 +53,7 @@ export default function Navbar() {
             whileHover={{ scale: 1.05 }}
           >
             <span className="text-[#00f5ff]/50">&lt;</span>
-            <span style={{ color: "#00f5ff", textShadow: "0 0 10px #00f5ff" }}>JG</span>
+            <span style={{ color: "#00f5ff", textShadow: "0 0 10px #00f5ff" }}>HG</span>
             <span className="text-[#00f5ff]/50">/&gt;</span>
           </motion.a>
 
