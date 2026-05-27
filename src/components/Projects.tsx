@@ -14,7 +14,7 @@ const projects = [
     description: "App full-stack con autenticación real (Supabase Auth), gestión de ingresos y gastos por categorías, gráficas mensuales interactivas y datos privados por usuario mediante Row Level Security.",
     tags: ["Next.js", "TypeScript", "Supabase", "PostgreSQL", "Recharts", "Tailwind CSS"],
     github: "https://github.com/HanniaG15/fintrack",
-    live: "https://fintrack-iota-indol.vercel.app",
+    live: "https://fintrack-two-eta.vercel.app",
     color: "#00f5ff", status: "Completado",
   },
   {
