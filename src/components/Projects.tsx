@@ -32,6 +32,18 @@ const featured = [
     glow: "#7b2fff",
     badge: "API Externa · ISR · Streaming",
   },
+  {
+    id: 3,
+    title: "CodeLens — AI Code Analysis",
+    description: "Herramienta de análisis de código con IA. Editor Monaco (VS Code), 4 modos de análisis (Review, Explicar, Optimizar, Seguridad), respuestas en streaming con Groq Llama 3.3 70B.",
+    tags: ["Next.js", "TypeScript", "Groq API", "Monaco Editor", "Framer Motion"],
+    github: "https://github.com/HanniaG15/codelens",
+    live: "https://codelens-beryl.vercel.app",
+    color: "#0080ff",
+    gradient: "from-[#0080ff] via-[#00f5ff] to-[#7b2fff]",
+    glow: "#0080ff",
+    badge: "IA · Streaming · Dev Tool",
+  },
 ];
 
 const upcoming = [
